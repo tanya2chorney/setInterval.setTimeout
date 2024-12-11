@@ -1,0 +1,22 @@
+#container-message {
+  height: 150px;
+}
+.container-size {
+  height: 100px;
+}
+.light {
+  width: 30px;
+  height: 30px;
+  margin: 10px auto;
+  border-radius: 50%;
+  transition: all 0.5s;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
